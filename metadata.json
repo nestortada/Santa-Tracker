@@ -1,0 +1,5 @@
+{
+  "name": "North Pole Command Center ",
+  "description": "A real-time 3D Santa Tracker visualizing Santa's journey across the globe. Features interactive route planning, live sleigh tracking, and AI-generated proof of delivery using Google's Imagine model.",
+  "requestFramePermissions": []
+}
